@@ -1,0 +1,8 @@
+<Our boggle program, runs according to the boggle game rules, it has a clock, which we have done in a very intuitive
+ that doesn't require any external libraries such as time or what not, additionally we created the buttons all the
+ needed buttons and labels to play the game, with sizes and fonts clear and readable for the user. Also we created a
+  quit button that exists the program and remove button, which acts like the backspace key in the keyboard
+  and a start button, which from it's name starts the game. We also put a boggle icon in place of the tk default icon.
+  When the user, chooses a word then clicks the "check" button if the word is correct it is put in a listbox showing
+  the chosen correct words and the  latest picked word will always be on top. When the time ends, a messagebox
+  will be shown to the user showing whether or not he wants to play again or no.>
